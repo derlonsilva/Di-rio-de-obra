@@ -1,0 +1,5 @@
+{
+  "name": "RDO Digital - Diário de Obra",
+  "description": "Aplicativo profissional para geração de Relatório Diário de Obra (RDO) com suporte a upload de fotos e resumos gerados por IA.",
+  "requestFramePermissions": []
+}
